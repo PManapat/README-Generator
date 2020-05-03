@@ -1,17 +1,45 @@
-#Good README Generator 
+# README 
  
-Your username is: pmanapat
+### Github User: Pmanapat
  
-![badge image](https://img.shields.io/static/v1?label=Version&message=crap&color=<COLOR>) 
+### Email: null
+ 
+![badge image](https://img.shields.io/static/v1?label=Version&message=1.0&color=<COLOR>) 
  
 ![Avatar](https://avatars0.githubusercontent.com/u/61250225?v=4)
  
-Your email is: null
- 
 
-#Good README Body 
+ # Information about the Repository 
  
-Project Title:nope
+## Project Title: 
  
-description:123
+README Generator
+ 
+## Description: 
+ 
+Generate a readme using prompts
+ 
+## Installation: 
+ 
+npm install and stuff
+ 
+## Usage: 
+ 
+like this..
+ 
+## License: 
+ 
+ nope
+ 
+## Contributions: 
+ 
+Phillip
+ 
+## Testing: 
+ 
+Manual testing
+ 
+## Frequently Asked Questions: 
+ 
+What color is cheese? What does red smell like?
  
