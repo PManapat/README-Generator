@@ -29,4 +29,7 @@ THEN a README for the repo is generated
 ```
 ```
 # DEMO
-![Demo](Demo.gif)
+
+![Demo](Demo1.gif)
+![Demo](Demo2.gif)
+![Demo](Demo3.gif)
