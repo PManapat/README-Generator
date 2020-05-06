@@ -21,15 +21,18 @@ The README will be populated with the following:
 
 
 ```
-GIVEN the developer has a GitHub profile and a repository
 
-WHEN prompted for the developer's GitHub username and repo specific information
-
-THEN a README for the repo is generated
-```
-```
 # DEMO
 
 ![Demo](Demo1.gif)
 ![Demo](Demo2.gif)
 ![Demo](Demo3.gif)
+
+```
+```
+# Author
+
+Phillip Manapat
+
+```
+
