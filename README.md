@@ -22,14 +22,7 @@ The README will be populated with the following:
 # DEMO
 
 ### Demo 1
-![Demo1](Demo1.gif)
-
-### Demo 2
-![Demo2](Demo2.gif)
-
-### Demo 3
-![Demo3](Demo3.gif)
-
+![Demo1](demo.gif)
 
 
 # Author
