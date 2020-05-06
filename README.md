@@ -30,8 +30,4 @@ THEN a README for the repo is generated
 
 # Demo
 
-![](demo1.gif)
-
-![](demo2.mp4)
-
-![](demo3.mp4)
+![Demo](Demo.gif)
