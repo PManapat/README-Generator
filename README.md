@@ -18,21 +18,21 @@ The README will be populated with the following:
 * Contributing
 * Tests
 * Questions
-
-
 ```
-
 # DEMO
 
-![Demo](Demo1.gif)
-![Demo](Demo2.gif)
-![Demo](Demo3.gif)
+### Demo 1
+![Demo1](Demo1.gif)
 
-```
-```
+### Demo 2
+![Demo2](Demo2.gif)
+
+### Demo 3
+![Demo3](Demo3.gif)
+
+
+
 # Author
 
 Phillip Manapat
-
 ```
-
