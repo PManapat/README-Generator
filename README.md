@@ -30,4 +30,4 @@ THEN a README for the repo is generated
 
 # Demo
 
-![Demo](Demo.gif)
+![Alt text](demo.gif) / ![](name-of-gif-file.gif)
