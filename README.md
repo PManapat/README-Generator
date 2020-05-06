@@ -29,5 +29,6 @@ THEN a README for the repo is generated
 ```
 
 # Demo
+```
 
-![Alt text](Demo.gif) / ![](name-of-gif-file.gif)
+![Demo](Demo.gif)
