@@ -4,7 +4,7 @@
  
 ### Email: null
  
-![badge image](https://img.shields.io/static/v1?label=Version&message=1.0&color=<COLOR>) 
+![badge image](https://img.shields.io/static/v1?label=Version&message=1.0.0&color=<COLOR>) 
  
 ![Avatar](https://avatars0.githubusercontent.com/u/61250225?v=4)
  
@@ -17,23 +17,23 @@ README Generator
  
 ## Description: 
  
-Generate a readme using prompts
+Generate a Readme using inquirer prompts 
  
 ## Installation: 
  
-npm install and stuff
+npm install
  
 ## Usage: 
  
-like this..
+Like this demonstrated in the demo gif
  
 ## License: 
  
- nope
+ None
  
 ## Contributions: 
  
-Phillip
+Phillip 
  
 ## Testing: 
  
@@ -41,5 +41,5 @@ Manual testing
  
 ## Frequently Asked Questions: 
  
-What color is cheese? What does red smell like?
+What is today's date?
  
